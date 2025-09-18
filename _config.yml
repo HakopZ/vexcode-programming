@@ -1,5 +1,8 @@
 title: "VEXcode Tutorials"
-remote_theme: pages-themes/modernist@v0.2.0
-markdown: kramdown
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+description: "Learning hub for VEX robotics programming."
+theme: just-the-docs
+url: "https://hakopz.github.io/vexcode-programming"
+
+# Optional search
+just_the_docs:
+  search_enabled: true
